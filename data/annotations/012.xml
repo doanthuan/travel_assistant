@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>012</filename>
+  <path>C:/Users/doanthuan/Desktop/windows_v1.2/data/012.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>329</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>police</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>46</xmin>
+      <ymin>149</ymin>
+      <xmax>148</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+</annotation>

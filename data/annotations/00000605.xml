@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>00000605</filename>
+  <path>D:\Working\test\google-images-deep-learning\images\00000605.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>150</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>police</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>116</xmin>
+      <ymin>4</ymin>
+      <xmax>174</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>001</filename>
+  <path>D:\Working\Learn\ComputerVision\police_detection\data\images\001.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>458</width>
+    <height>258</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>police</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>240</xmin>
+      <ymin>114</ymin>
+      <xmax>263</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+</annotation>
